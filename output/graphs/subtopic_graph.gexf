@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-25">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="topic" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Examples of animal senses (eagle, ants, dog)" label="Examples of animal senses (eagle, ants, dog)">
+        <attvalues>
+          <attvalue for="0" value="Super Senses" />
+        </attvalues>
+      </node>
+      <node id="How ants recognize friends and find their way (pheromones)" label="How ants recognize friends and find their way (pheromones)">
+        <attvalues>
+          <attvalue for="0" value="Super Senses" />
+        </attvalues>
+      </node>
+      <node id="How mosquitoes find humans (smell, heat)" label="How mosquitoes find humans (smell, heat)">
+        <attvalues>
+          <attvalue for="0" value="Super Senses" />
+        </attvalues>
+      </node>
+      <node id="How dogs use smell (territory marking)" label="How dogs use smell (territory marking)">
+        <attvalues>
+          <attvalue for="0" value="Super Senses" />
+        </attvalues>
+      </node>
+      <node id="Human sense of smell (comparison with animals)" label="Human sense of smell (comparison with animals)">
+        <attvalues>
+          <attvalue for="0" value="Super Senses" />
+        </attvalues>
+      </node>
+      <node id="Location of eyes in birds and its impact on vision" label="Location of eyes in birds and its impact on vision">
+        <attvalues>
+          <attvalue for="0" value="Animal Senses: Sight" />
+        </attvalues>
+      </node>
+      <node id="Comparison of human and animal vision (monocular vs binocular vision)" label="Comparison of human and animal vision (monocular vs binocular vision)">
+        <attvalues>
+          <attvalue for="0" value="Animal Senses: Sight" />
+        </attvalues>
+      </node>
+      <node id="Color vision in animals (day vs night animals)" label="Color vision in animals (day vs night animals)">
+        <attvalues>
+          <attvalue for="0" value="Animal Senses: Sight" />
+        </attvalues>
+      </node>
+      <node id="Size and visibility of animal ears" label="Size and visibility of animal ears">
+        <attvalues>
+          <attvalue for="0" value="Animal Senses: Hearing" />
+        </attvalues>
+      </node>
+      <node id="Relationship between ear size and hearing ability" label="Relationship between ear size and hearing ability">
+        <attvalues>
+          <attvalue for="0" value="Animal Senses: Hearing" />
+        </attvalues>
+      </node>
+      <node id="How animals use sound for communication (alarm calls, warnings)" label="How animals use sound for communication (alarm calls, warnings)">
+        <attvalues>
+          <attvalue for="0" value="Animal Senses: Hearing" />
+        </attvalues>
+      </node>
+      <node id="How snakes perceive sound (vibrations)" label="How snakes perceive sound (vibrations)">
+        <attvalues>
+          <attvalue for="0" value="Animal Senses: Hearing" />
+        </attvalues>
+      </node>
+      <node id="Dolphins' language and communication through sound" label="Dolphins' language and communication through sound">
+        <attvalues>
+          <attvalue for="0" value="Animal Senses: Hearing" />
+        </attvalues>
+      </node>
+      <node id="Sleeping patterns of different animals (sloth, lizard, cow, python, giraffe, cat)" label="Sleeping patterns of different animals (sloth, lizard, cow, python, giraffe, cat)">
+        <attvalues>
+          <attvalue for="0" value="Animal Behavior and Sleep" />
+        </attvalues>
+      </node>
+      <node id="Tiger's enhanced night vision" label="Tiger's enhanced night vision">
+        <attvalues>
+          <attvalue for="0" value="Tiger's Senses and Territory" />
+        </attvalues>
+      </node>
+      <node id="Tiger's sensitive whiskers and sharp hearing" label="Tiger's sensitive whiskers and sharp hearing">
+        <attvalues>
+          <attvalue for="0" value="Tiger's Senses and Territory" />
+        </attvalues>
+      </node>
+      <node id="Tiger communication and territoriality (sounds, scent marking)" label="Tiger communication and territoriality (sounds, scent marking)">
+        <attvalues>
+          <attvalue for="0" value="Tiger's Senses and Territory" />
+        </attvalues>
+      </node>
+      <node id="Dangers to tigers (poaching, habitat loss)" label="Dangers to tigers (poaching, habitat loss)">
+        <attvalues>
+          <attvalue for="0" value="Tiger's Senses and Territory" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Examples of animal senses (eagle, ants, dog)" target="How ants recognize friends and find their way (pheromones)" id="0" />
+      <edge source="Examples of animal senses (eagle, ants, dog)" target="How mosquitoes find humans (smell, heat)" id="1" />
+      <edge source="Examples of animal senses (eagle, ants, dog)" target="How dogs use smell (territory marking)" id="2" />
+      <edge source="Examples of animal senses (eagle, ants, dog)" target="Location of eyes in birds and its impact on vision" id="3" />
+      <edge source="How dogs use smell (territory marking)" target="Human sense of smell (comparison with animals)" id="4" />
+      <edge source="How dogs use smell (territory marking)" target="Tiger communication and territoriality (sounds, scent marking)" id="5" />
+      <edge source="Location of eyes in birds and its impact on vision" target="Comparison of human and animal vision (monocular vs binocular vision)" id="6" />
+      <edge source="Comparison of human and animal vision (monocular vs binocular vision)" target="Color vision in animals (day vs night animals)" id="7" />
+      <edge source="Color vision in animals (day vs night animals)" target="Tiger's enhanced night vision" id="8" />
+      <edge source="Size and visibility of animal ears" target="Relationship between ear size and hearing ability" id="9" />
+      <edge source="Relationship between ear size and hearing ability" target="How animals use sound for communication (alarm calls, warnings)" id="10" />
+      <edge source="Relationship between ear size and hearing ability" target="Tiger's sensitive whiskers and sharp hearing" id="11" />
+      <edge source="How animals use sound for communication (alarm calls, warnings)" target="How snakes perceive sound (vibrations)" id="12" />
+      <edge source="How animals use sound for communication (alarm calls, warnings)" target="Dolphins' language and communication through sound" id="13" />
+      <edge source="How animals use sound for communication (alarm calls, warnings)" target="Tiger communication and territoriality (sounds, scent marking)" id="14" />
+    </edges>
+  </graph>
+</gexf>

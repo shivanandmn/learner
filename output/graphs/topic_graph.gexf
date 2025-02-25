@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-25">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Super Senses" label="Super Senses" />
+      <node id="Animal Senses: Sight" label="Animal Senses: Sight" />
+      <node id="Tiger's Senses and Territory" label="Tiger's Senses and Territory" />
+      <node id="Animal Senses: Hearing" label="Animal Senses: Hearing" />
+    </nodes>
+    <edges>
+      <edge source="Super Senses" target="Animal Senses: Sight" id="0" />
+      <edge source="Super Senses" target="Tiger's Senses and Territory" id="1" />
+      <edge source="Animal Senses: Sight" target="Tiger's Senses and Territory" id="2" />
+      <edge source="Animal Senses: Hearing" target="Tiger's Senses and Territory" id="3" />
+    </edges>
+  </graph>
+</gexf>

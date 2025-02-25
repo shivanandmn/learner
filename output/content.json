@@ -1,0 +1,605 @@
+{
+  "topics": {
+    "Super Senses": {
+      "subtopics": [
+        "Examples of animal senses (eagle, ants, dog)",
+        "How ants recognize friends and find their way (pheromones)",
+        "How mosquitoes find humans (smell, heat)",
+        "How dogs use smell (territory marking)",
+        "Human sense of smell (comparison with animals)"
+      ],
+      "questions": [
+        {
+          "question": "Which animal uses pheromones to communicate and navigate?",
+          "answer": [
+            "Dog",
+            "Eagle",
+            "Ant",
+            "Mosquito"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "How do mosquitoes primarily locate humans?",
+          "answer": [
+            "Sight",
+            "Sound",
+            "Smell and Body Heat",
+            "Touch"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "What sense is most crucial for a dog marking its territory?",
+          "answer": [
+            "Sight",
+            "Hearing",
+            "Smell",
+            "Taste"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "Which animal is known for its exceptional night vision?",
+          "answer": [
+            "Eagle",
+            "Ant",
+            "Dog",
+            "Tiger"
+          ],
+          "correct_option_index": 3
+        },
+        {
+          "question": "What is the primary way ants communicate?",
+          "answer": [
+            "Sound",
+            "Visual Signals",
+            "Pheromones",
+            "Electric Signals"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "Which of these senses is MOST subjective and varies greatly among individuals?",
+          "answer": [
+            "Sight",
+            "Hearing",
+            "Taste",
+            "Smell"
+          ],
+          "correct_option_index": 3
+        },
+        {
+          "question": "How does the placement of eyes affect an animal's vision?",
+          "answer": [
+            "It doesn't affect vision",
+            "It affects depth perception and field of vision",
+            "It only affects color vision",
+            "It affects hearing"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "Which animal is known for its exceptional hearing sensitivity?",
+          "answer": [
+            "Mosquito",
+            "Tiger",
+            "Silkworm",
+            "Eagle"
+          ],
+          "correct_option_index": 3
+        },
+        {
+          "question": "What is a significant threat to tigers and other animals?",
+          "answer": [
+            "Lack of food",
+            "Habitat loss",
+            "Disease",
+            "All of the above"
+          ],
+          "correct_option_index": 3
+        },
+        {
+          "question": "Besides scent, what other factor helps attract mosquitoes to humans?",
+          "answer": [
+            "Sunlight",
+            "Sound",
+            "Body heat",
+            "Water"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "True or False:  All animals see colors the same way humans do.",
+          "answer": [
+            "True",
+            "False"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "How do dogs use their sense of smell to mark their territory?",
+          "answer": [
+            "They leave droppings.",
+            "They urinate.",
+            "They leave scent marks with glands.",
+            "All of the above"
+          ],
+          "correct_option_index": 3
+        }
+      ]
+    },
+    "Animal Senses: Hearing": {
+      "subtopics": [
+        "Size and visibility of animal ears",
+        "Relationship between ear size and hearing ability",
+        "How animals use sound for communication (alarm calls, warnings)",
+        "How snakes perceive sound (vibrations)",
+        "Dolphins' language and communication through sound"
+      ],
+      "questions": [
+        {
+          "question": "Which animal is known to use vibrations to sense its environment?",
+          "answer": [
+            "Snake",
+            "Dolphin",
+            "Bird",
+            "Elephant"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "How do dolphins most often communicate with each other?",
+          "answer": [
+            "Body language",
+            "Scents",
+            "Echolocation",
+            "Alarm calls"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "What is one important way animals use sound?",
+          "answer": [
+            "To sleep",
+            "To see",
+            "To communicate",
+            "To taste"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "Is it always true that animals with larger ears have better hearing?",
+          "answer": [
+            "True",
+            "False"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "Describe a sound a bird might make to warn others of danger.",
+          "answer": [
+            "A soft chirp",
+            "A loud screech",
+            "A gentle coo",
+            "A quiet whistle"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "How does a snake mainly find its prey?",
+          "answer": [
+            "Sight",
+            "Smell",
+            "By sensing vibrations",
+            "Taste"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "Name one threat that human activities pose to animals.",
+          "answer": [
+            "Too much food",
+            "Too many friends",
+            "Habitat loss",
+            "Extra sleep"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "Why is protecting animal habitats important?",
+          "answer": [
+            "To make them stronger",
+            "To help them survive",
+            "To keep them quiet",
+            "To make them bigger"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "If a predator makes a loud noise, how might its prey react?",
+          "answer": [
+            "Run away",
+            "Stay still",
+            "Sing a song",
+            "Make a friend"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "Which of these is NOT a typical way animals use sound?",
+          "answer": [
+            "To find food",
+            "To warn others",
+            "To attract mates",
+            "To sleep soundly"
+          ],
+          "correct_option_index": 3
+        },
+        {
+          "question": "Explain how ear size can relate to an animal's hearing ability. Give an example.",
+          "answer": [
+            "Larger ears often help animals hear better, but it's not always true. For example, owls have large ears to help them hear small sounds at night.",
+            "Smaller ears always mean worse hearing. ",
+            "Ear size has no relationship to hearing.",
+            "Animals with no ears cannot hear."
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "Compare how snakes and dolphins 'hear'.",
+          "answer": [
+            "Snakes sense vibrations in the ground to 'hear', while dolphins use echolocation (sound waves) to find food and communicate.",
+            "Both snakes and dolphins use echolocation.",
+            "Snakes hear using their ears, dolphins use their noses.",
+            "Snakes and dolphins have similar hearing abilities."
+          ],
+          "correct_option_index": 0
+        }
+      ]
+    },
+    "Animal Senses: Sight": {
+      "subtopics": [
+        "Location of eyes in birds and its impact on vision",
+        "Comparison of human and animal vision (monocular vs binocular vision)",
+        "Color vision in animals (day vs night animals)"
+      ],
+      "questions": [
+        {
+          "question": "Most birds have eyes on the sides of their heads. What is the primary advantage of this eye placement?",
+          "answer": [
+            "A wider field of vision",
+            "Better depth perception",
+            "Improved focus at long distances",
+            "Enhanced color vision"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "Humans possess binocular vision.  Which of the following best describes binocular vision?",
+          "answer": [
+            "Vision using only one eye",
+            "Vision using both eyes, providing depth perception",
+            "Vision with a very wide field of view",
+            "Vision adapted for seeing in low light conditions"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "What is the main difference in visual capabilities between diurnal (daytime) and nocturnal (nighttime) animals?",
+          "answer": [
+            "Diurnal animals have better depth perception; nocturnal animals have better peripheral vision.",
+            "Diurnal animals have better night vision; nocturnal animals have better day vision.",
+            "Diurnal animals generally have color vision; nocturnal animals primarily see in shades of gray.",
+            "Diurnal animals have larger eyes; nocturnal animals have smaller eyes."
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "A bird is looking directly ahead. What is its likely visual field?",
+          "answer": [
+            "A narrow field of vision, focused directly ahead",
+            "A wide field of vision, encompassing a significant area to the sides, but with some limitations directly ahead compared to binocular vision",
+            "A blind spot directly ahead, with good vision to the sides",
+            "A limited field of vision, only seeing what is directly in front"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "Which type of vision, monocular or binocular, provides a wider field of view?",
+          "answer": [
+            "Monocular vision",
+            "Binocular vision",
+            "Both provide the same field of view",
+            "Neither provides a wide field of view"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "Why is color vision an advantage for diurnal animals?",
+          "answer": [
+            "It helps them see in low-light conditions",
+            "It allows them to distinguish different types of food and potential mates",
+            "It improves their depth perception",
+            "It enhances their peripheral vision"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "A nocturnal owl would likely possess which type of vision?",
+          "answer": [
+            "Excellent color vision",
+            "Mostly monochrome vision",
+            "Binocular vision with exceptional depth perception",
+            "Monocular vision with a very wide field of view"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "Which of the following animals is MOST likely to have excellent color vision?",
+          "answer": [
+            "A bat",
+            "An owl",
+            "A monkey",
+            "A mole"
+          ],
+          "correct_option_index": 2
+        },
+        {
+          "question": "What is a significant disadvantage of having eyes on the sides of the head?",
+          "answer": [
+            "Reduced forward-facing field of vision",
+            "Poor depth perception",
+            "Inability to see in color",
+            "Increased susceptibility to eye injury"
+          ],
+          "correct_option_index": 1
+        },
+        {
+          "question": "Compared to a human, a bird typically has:",
+          "answer": [
+            "Better depth perception",
+            "A narrower field of vision",
+            "A wider field of vision",
+            "Identical visual capabilities"
+          ],
+          "correct_option_index": 2
+        }
+      ]
+    },
+    "Tiger's Senses and Territory": {
+      "subtopics": [
+        "Dangers to tigers (poaching, habitat loss)",
+        "Tiger's sensitive whiskers and sharp hearing",
+        "Tiger communication and territoriality (sounds, scent marking)",
+        "Tiger's enhanced night vision"
+      ],
+      "questions": [
+        {
+          "question": "How much better is a tiger's night vision than a human's?",
+          "answer": [
+            "Six times better",
+            "Three times better",
+            "Two times better",
+            "The same"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "What role do a tiger's whiskers play in hunting?",
+          "answer": [
+            "Detecting air movements and vibrations",
+            "Hearing prey",
+            "Scenting prey",
+            "Camouflage"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "How does a tiger primarily mark its territory?",
+          "answer": [
+            "Scent marking (urine)",
+            "Roaring",
+            "Scratching trees",
+            "Leaving droppings"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "What is one major threat to tiger populations?",
+          "answer": [
+            "Poaching",
+            "Disease",
+            "Lack of food",
+            "Natural disasters"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "Besides scent marking, how else do tigers communicate?",
+          "answer": [
+            "Roaring and snarling",
+            "Body language",
+            "Tail movements",
+            "All of the above"
+          ],
+          "correct_option_index": 3
+        },
+        {
+          "question": "If a tiger hears a rustling sound in the bushes at night, which sense helps it most to determine what made the sound?",
+          "answer": [
+            "Hearing",
+            "Sight",
+            "Smell",
+            "Taste"
+          ],
+          "correct_option_index": 0
+        },
+        {
+          "question": "Why is it important for tigers to have excellent night vision?",
+          "answer": [
+            "Hunting at night",
+            "Avoiding predators",
+            "Navigating their territory",
+            "All of the above"
+          ],
+          "correct_option_index": 3
+        },
+        {
+          "question": "How does habitat loss affect tigers?",
+          "answer": [
+            "Reduces available space and resources",
+            "Increases human-tiger conflict",
+            "Makes them more vulnerable to poaching",
+            "All of the above"
+          ],
+          "correct_option_index": 3
+        },
+        {
+          "question": "What is a conservation effort designed to protect tigers?",
+          "answer": [
+            "National parks and protected areas",
+            "Anti-poaching patrols",
+            "Tiger breeding programs",
+            "All of the above"
+          ],
+          "correct_option_index": 3
+        },
+        {
+          "question": "Imagine a tiger is hunting at night. How would its sensitive hearing and whiskers help it locate prey?",
+          "answer": [
+            "Hearing would help it detect sounds of prey moving, while whiskers would help detect vibrations in the air from movements",
+            "Hearing would scare the prey, making it easier to catch",
+            "Whiskers would make it invisible to prey",
+            "Hearing and whiskers have no effect on hunting"
+          ],
+          "correct_option_index": 0
+        }
+      ]
+    }
+  },
+  "selected_topics": [],
+  "prerequisites": {
+    "relationships": [
+      {
+        "subtopic": "Examples of animal senses (eagle, ants, dog)",
+        "parent_topic": "Super Senses",
+        "prerequisites": []
+      },
+      {
+        "subtopic": "How ants recognize friends and find their way (pheromones)",
+        "parent_topic": "Super Senses",
+        "prerequisites": [
+          "Examples of animal senses (eagle, ants, dog)"
+        ]
+      },
+      {
+        "subtopic": "How mosquitoes find humans (smell, heat)",
+        "parent_topic": "Super Senses",
+        "prerequisites": [
+          "Examples of animal senses (eagle, ants, dog)"
+        ]
+      },
+      {
+        "subtopic": "How dogs use smell (territory marking)",
+        "parent_topic": "Super Senses",
+        "prerequisites": [
+          "Examples of animal senses (eagle, ants, dog)"
+        ]
+      },
+      {
+        "subtopic": "Human sense of smell (comparison with animals)",
+        "parent_topic": "Super Senses",
+        "prerequisites": [
+          "How dogs use smell (territory marking)"
+        ]
+      },
+      {
+        "subtopic": "Location of eyes in birds and its impact on vision",
+        "parent_topic": "Animal Senses: Sight",
+        "prerequisites": [
+          "Examples of animal senses (eagle, ants, dog)"
+        ]
+      },
+      {
+        "subtopic": "Comparison of human and animal vision (monocular vs binocular vision)",
+        "parent_topic": "Animal Senses: Sight",
+        "prerequisites": [
+          "Location of eyes in birds and its impact on vision"
+        ]
+      },
+      {
+        "subtopic": "Color vision in animals (day vs night animals)",
+        "parent_topic": "Animal Senses: Sight",
+        "prerequisites": [
+          "Comparison of human and animal vision (monocular vs binocular vision)"
+        ]
+      },
+      {
+        "subtopic": "Size and visibility of animal ears",
+        "parent_topic": "Animal Senses: Hearing",
+        "prerequisites": []
+      },
+      {
+        "subtopic": "Relationship between ear size and hearing ability",
+        "parent_topic": "Animal Senses: Hearing",
+        "prerequisites": [
+          "Size and visibility of animal ears"
+        ]
+      },
+      {
+        "subtopic": "How animals use sound for communication (alarm calls, warnings)",
+        "parent_topic": "Animal Senses: Hearing",
+        "prerequisites": [
+          "Relationship between ear size and hearing ability"
+        ]
+      },
+      {
+        "subtopic": "How snakes perceive sound (vibrations)",
+        "parent_topic": "Animal Senses: Hearing",
+        "prerequisites": [
+          "How animals use sound for communication (alarm calls, warnings)"
+        ]
+      },
+      {
+        "subtopic": "Dolphins' language and communication through sound",
+        "parent_topic": "Animal Senses: Hearing",
+        "prerequisites": [
+          "How animals use sound for communication (alarm calls, warnings)"
+        ]
+      },
+      {
+        "subtopic": "Sleeping patterns of different animals (sloth, lizard, cow, python, giraffe, cat)",
+        "parent_topic": "Animal Behavior and Sleep",
+        "prerequisites": []
+      },
+      {
+        "subtopic": "Tiger's enhanced night vision",
+        "parent_topic": "Tiger's Senses and Territory",
+        "prerequisites": [
+          "Color vision in animals (day vs night animals)"
+        ]
+      },
+      {
+        "subtopic": "Tiger's sensitive whiskers and sharp hearing",
+        "parent_topic": "Tiger's Senses and Territory",
+        "prerequisites": [
+          "Relationship between ear size and hearing ability"
+        ]
+      },
+      {
+        "subtopic": "Tiger communication and territoriality (sounds, scent marking)",
+        "parent_topic": "Tiger's Senses and Territory",
+        "prerequisites": [
+          "How dogs use smell (territory marking)",
+          "How animals use sound for communication (alarm calls, warnings)"
+        ]
+      },
+      {
+        "subtopic": "Dangers to tigers (poaching, habitat loss)",
+        "parent_topic": "Tiger's Senses and Territory",
+        "prerequisites": []
+      }
+    ]
+  }
+}
