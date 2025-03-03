@@ -20,7 +20,7 @@ class QuestionGeneratorCrew:
             goal='Analyze topics and create detailed context for question generation',
             backstory="""You are an expert in analyzing educational topics and creating 
             comprehensive context for question generation. You have years of experience in 
-            breaking down complex topics into manageable learning objectives.""",
+            breaking down complex topics into manageable learning objectives. """,
             allow_delegation=True,
             llm=self.llm
         )
@@ -76,13 +76,13 @@ class QuestionGeneratorCrew:
 
         task3 = Task(
             description="""Review and improve the generated questions. Ensure:
-            1. Questions are clear, unambiguous and relative to context.
-            2. All options are plausible
-            3. Correct answers are properly marked
-            4. JSON format is maintained
+            1. Question prompt is clear, unambiguous and logically related to context of the topic or subtopic selected.
+            2. All answer choices are plausible and relate to the question prompt
+            3. There is only one correct answer that unambiguously answers the question, the remaining 3 options cannot answer the question
+            4. Validate that the correct answer choice is the single best answer, logically linked to and actually answers the question
             5. Questions are at the appropriate difficulty level
-            6. Questions and options should be logically correct.
-            7. Validate that the correct answer choice is the single best answer, logically linked to and actually answers the question
+            6. The answer choices should be logically correct. 
+            7. JSON format is maintained
             """,
             expected_output="A validated and improved set of questions in JSON format with verified correct answers and appropriate difficulty levels.",
             agent=qa_specialist
